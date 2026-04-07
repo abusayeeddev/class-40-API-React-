@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useEffect, useState } from "react";
 
 import axios from "axios";
@@ -106,3 +107,16 @@ const Shop = () => {
 };
 
 export default Shop;
+=======
+import React from 'react'
+
+const Shop = () => {
+  return (
+    <div>
+        <h1 className='text-green-500'>Welcome to the Shop Page!</h1>
+    </div>
+  )
+}
+
+export default Shop
+>>>>>>> f2c0f3bf682d69f5c539a4b7a36953d8361939cb
