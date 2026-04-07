@@ -14,7 +14,7 @@ const Product = ({ productImg, badgeName, productTitle, productprice, className 
       </h3>
       <p className={`text-[#767676] text-[16px] pl-3`}>{productprice}</p>
 
-      <div className="absolute bottom-15 left-0 w-full bg-white/90 p-4 flex flex-col items-end gap-2 transform translate-y-full group-hover:translate-y-0 transition-all duration-300 ease-in-out opacity-0 group-hover:opacity-100">
+      <div className="absolute bottom-15 left-0 w-full bg-white/90 p-4 flex flex-col items-end gap-2 transform translate-y-full group-hover:translate-y-0 transition-all duration-300 ease-in-out  opacity-0 group-hover:opacity-100">
           <div className="flex items-center gap-3 text-[#767676] hover:text-black cursor-pointer font-normal text-sm">
             Add to Wish List <FaHeart />
           </div>
