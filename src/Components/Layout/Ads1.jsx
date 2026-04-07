@@ -34,6 +34,3 @@ const Ads1 = () => {
 }
 
 export default Ads1
-
-export default Ads1
->>>>>>> f2c0f3bf682d69f5c539a4b7a36953d8361939cb
